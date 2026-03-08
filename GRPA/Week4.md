@@ -2,6 +2,7 @@
 <img width="650" alt="Screenshot 2021-09-23 at 7 32 59 PM" src="https://user-images.githubusercontent.com/94922914/235103707-0fea38a5-1e92-4e99-a2e2-38e51f08704d.png">
 <img width="650" alt="Screenshot%202021-09-23 at 7 33 08 PM" src="https://backend.seek.study.iitm.ac.in/21t3_cs2002/assets/img/Screenshot%202021-09-23%20at%207.33.08%20PM.png">
 <img width="650" alt="Screenshot%202021-09-23 at 7 33 17 PM" src="https://backend.seek.study.iitm.ac.in/21t3_cs2002/assets/img/Screenshot%202021-09-23%20at%207.33.17%20PM.png">
+
 ## Solution
 ```python
 # Helper function
